@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Iftakhar Asif</h1>
+<h1 align="center">Hi, I'm Iftakhar Alam</h1>
 
 <h3 align="center">Junior Software Engineer @ Puku AI</h3>
 
