@@ -12,13 +12,9 @@
 
 ---
 
-## About Me
+### Contact
 
-- Junior Software Engineer at **Puku AI**
-- Interested in backend engineering and scalable applications.
-- Exploring Artificial Intelligence and Machine Learning.
-- Working with modern web technologies and development tools.
-- Passionate about learning, building, and solving problems.
+- 📫 How to reach me: [iftakharalamshihad@gmail.com](mailto:iftakharalamshihad@gmail.com)
 
 ## Tech Stack
 
