@@ -25,10 +25,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,mongodb,tailwind,html,css,docker,nginx,linux,git,github,pytorch,opencv&perline=7" />
 </p>
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iftakhar-323&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakhar-323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
