@@ -32,27 +32,3 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=iftakhar-323&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakhar-323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iftakhar-323&theme=tokyonight&hide_border=true" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftakhar-323&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftakhar-323&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <b>Building • Learning • Improving</b>
-</p>
